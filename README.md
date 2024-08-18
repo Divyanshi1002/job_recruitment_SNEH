@@ -1,6 +1,6 @@
 ## Description
 
-Job portal is a web application for SNEH FOUNDATION where the candidates can register and search for suitable jobs and employers can register to post job vacancies at their company. The application provides job catalogue and information which helps the candidates decide which jobs to apply for. 
+Job portal is a web application for SNEH FOUNDATION where the candidates can register and search for suitable jobs and employers can register to post job vacancies. The application provides job catalogue and information which helps the candidates decide which jobs to apply for. 
 
 The 2 user roles are Candidate and Admin
 
